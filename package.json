@@ -1,0 +1,24 @@
+{
+  "name": "rituaisnext",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N3RZ2008/rituaisNext.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/N3RZ2008/rituaisNext/issues"
+  },
+  "homepage": "https://github.com/N3RZ2008/rituaisNext#readme",
+  "description": "",
+  "dependencies": {
+    "next": "^15.1.2",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
